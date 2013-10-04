@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=r
+comment0.target=PluginManager(Root)
+comment1.params=
+comment1.target=void\ registerPlugins()
+comment2.params=name\ cls
+comment2.target=Plugin\ _getNewPluginInstance(java.lang.String,\ java.lang.String)
+numComments=3

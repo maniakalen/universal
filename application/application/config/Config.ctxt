@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=file
+comment0.target=Config(java.lang.String)
+comment1.params=
+comment1.target=java.util.List\ getPluginConfigList()
+numComments=2

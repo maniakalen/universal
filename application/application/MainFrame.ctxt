@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MainFrame()
+comment1.params=item
+comment1.target=void\ addToTopBorder(java.awt.Component)
+comment2.params=item
+comment2.target=void\ addToBottomBorder(java.awt.Component)
+comment3.params=item
+comment3.target=void\ addToRightBorder(java.awt.Component)
+comment4.params=item
+comment4.target=void\ addToLeftBorder(java.awt.Component)
+comment5.params=
+comment5.target=javax.swing.JMenuBar\ getFrameMenuBar()
+comment6.params=bar
+comment6.target=void\ setMenuBar(javax.swing.JMenuBar)
+numComments=7

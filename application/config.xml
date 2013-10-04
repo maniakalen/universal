@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <plugins>
+        <plugin name="Test Plugin" class="application.TestPlugin">
+            <item name="Add" class="application.AddItem" />
+            <item name="Remove" class="application.TestPlugin$ItemDos" />
+        </plugin>
+    </plugins>
+</config>

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=frame
+comment0.target=void\ registerPlugin(javax.swing.JFrame)
+comment1.params=name
+comment1.target=void\ setName(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=list
+comment3.target=void\ itemsConfig(java.util.HashMap)
+numComments=4
